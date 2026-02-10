@@ -137,7 +137,7 @@ src/
 
 ## 🌐 在线预览
 
-部署在 Vercel 上的在线版本：[时光机](https://time-machine.vercel.app)
+部署在 Vercel 上的在线版本：[时光机](https://time.hijoe.net)
 
 *（请替换为你的实际部署地址）*
 
@@ -236,8 +236,8 @@ A: 项目已配置 next-themes，可以轻松添加深色模式支持。
 ## 📧 联系方式
 
 如有问题或建议，请：
-- 提交 [Issue](https://github.com/bestop/time-machine/issues)
-- 发送邮件：[your-email@example.com]
+- 提交 [Issue](https://github.com/bestop/timer/issues)
+- 发送邮件：[hijoe@outlook.com]
 
 ---
 
